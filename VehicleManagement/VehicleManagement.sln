@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleManagement", "VehicleManagement\VehicleManagement.csproj", "{79F15B76-5557-4271-B1E5-45D67643AB23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVehicleManagement", "TestVehicleManagement\TestVehicleManagement.csproj", "{2F83A3CF-8CEB-4420-9ADB-EBDE960D8F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{C8ACFE30-B8B8-4C0C-BBB0-B0021F14E5B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F15B76-5557-4271-B1E5-45D67643AB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F15B76-5557-4271-B1E5-45D67643AB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F15B76-5557-4271-B1E5-45D67643AB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F15B76-5557-4271-B1E5-45D67643AB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F83A3CF-8CEB-4420-9ADB-EBDE960D8F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F83A3CF-8CEB-4420-9ADB-EBDE960D8F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F83A3CF-8CEB-4420-9ADB-EBDE960D8F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F83A3CF-8CEB-4420-9ADB-EBDE960D8F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8ACFE30-B8B8-4C0C-BBB0-B0021F14E5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ACFE30-B8B8-4C0C-BBB0-B0021F14E5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ACFE30-B8B8-4C0C-BBB0-B0021F14E5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ACFE30-B8B8-4C0C-BBB0-B0021F14E5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
